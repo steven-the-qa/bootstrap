@@ -1,0 +1,4 @@
+<button class="btn btn-block btn-info">Info</button>
+
+//The 'btn-info' class turns your button light blue
+//It is supposed to attract attention to the various options a user can take
