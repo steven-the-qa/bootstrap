@@ -1,0 +1,5 @@
+  <button class="btn btn-primary btn-block">Like</button>
+  
+  //The 'btn-primary' class makes your button blue
+  //The 'btn-default' class makes it gray
+  //There are other classes that set the color of your button, such as 'btn-danger'
