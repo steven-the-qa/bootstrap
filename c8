@@ -1,0 +1,4 @@
+<button class="btn btn-block btn-danger">Delete</button>
+
+//The 'btn-danger' class turns your button red
+//It's used to notify the user that a button performs a destructive action
