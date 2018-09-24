@@ -1,0 +1,16 @@
+<div class="row">
+   <div class="col-xs-4"> 
+    <button class="btn btn-block btn-primary">Like</button>
+    </div>
+    <div class="col-xs-4">
+      <button class="btn btn-block btn-info">Info</button>
+    </div>
+    <div class="col-xs-4">
+    <button class="btn btn-block  btn-danger">Delete</button>
+    </div>
+  </div>
+  
+  //The Bootstrap 12-column grid system makes for a great responsive layout option
+  //Column widths can be adjusted to fit whatever size screen you're using, such as xs(extra-small) or md(medium)
+  //All columns can be nested inside rows
+  //The rows and column declarations use Bootstrap classes 'row' and variations of 'col-*size*-*width*'
