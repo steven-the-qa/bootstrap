@@ -1,0 +1,4 @@
+<button class="btn btn-default">Like</button>
+
+//The button classes in Bootstrap let you make simple, attractive buttons without adding extra CSS
+//You can style them beyond Bootstrap classes but this saves you a lot of time at the outset
