@@ -1,0 +1,5 @@
+<button class="btn btn-default btn-block">Like</button>
+
+//The 'btn-block' class turns the button element into a block-level element
+//This button takes up a whole line (all the available space before and after the button)
+//For this to work, you still need the 'btn' class
