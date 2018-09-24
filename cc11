@@ -1,0 +1,5 @@
+<p>Things cats <span class="text-danger">love</span>:</p>
+
+//You can use 'span' elements to place multiple elements in the same line
+//This inline format enables you to style different parts of a line differently
+//Here we make 1 word of the 'p' tag red
