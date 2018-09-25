@@ -1,0 +1,6 @@
+<button class="btn btn-block btn-info"><i class="fa fa-info-circle">Info</i></button>
+    </div>
+    <div class="col-xs-4">
+      <button class="btn btn-block btn-danger"><i class = "fa fa-trash">Delete</i></button>
+      
+ //Here are other examples of Font Awesome icons, such as the info circle and the trash icon
