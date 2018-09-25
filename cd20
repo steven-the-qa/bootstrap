@@ -1,0 +1,5 @@
+<div class="container-fluid">
+<h3 class="text-primary text-center">jQuery Playground</h3>
+</div>
+
+//We make sure the page is mobile-responsive from the start of the build
