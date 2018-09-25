@@ -1,0 +1,13 @@
+    <div class="row">
+    <div class="col-xs-4">
+    <label><input type="checkbox" name="personality"> Loving</label>
+    </div>
+    <div class="col-xs-4">
+    <label><input type="checkbox" name="personality"> Lazy</label>
+    </div>
+    <div class="col-xs-4">
+    <label><input type="checkbox" name="personality"> Crazy</label>
+    </div>
+    </div>
+    
+    //Now we spread the 3 checkboxes out evenly across the page of the CatPhotoApp
