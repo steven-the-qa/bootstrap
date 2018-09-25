@@ -1,0 +1,4 @@
+      <button class="btn btn-block btn-primary"><i class="fa fa-thumbs-up">Like</i></button>
+      
+      //The Font Awesome library contains a wide array of vector graphics that can be used as icons
+      //You can increase the size of them just like fonts
