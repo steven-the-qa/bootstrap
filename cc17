@@ -1,0 +1,5 @@
+<input type="text" class="form-control" placeholder="cat photo URL" required>
+    <button type="submit" class="btn btn-primary"><i class="fa fa-paper-plane">Submit</i></button>
+    
+ //Here we just added a few Bootstrap classes to spruce up the buttons and text fields
+ //The class 'form-control' gives certain textual input fields a width of 100%
